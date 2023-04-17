@@ -1,0 +1,8 @@
+---
+title: Načrtovanje
+subtitle: Svetovanje, načrtovanje in risanje tehnične dokumentacije
+layout: default
+modal-id: 6
+thumbnail: designing.jpg
+alt: image-alt
+---

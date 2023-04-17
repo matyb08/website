@@ -1,0 +1,8 @@
+---
+title: Kvaliteten material
+subtitle: Material priznanih lokalnih in tujih dobaviteljev
+layout: default
+modal-id: 2
+thumbnail: material.jpg
+alt: image-alt
+---

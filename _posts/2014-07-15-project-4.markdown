@@ -1,0 +1,8 @@
+---
+title: Fleksibilnost
+subtitle: Prilagodljivost pri usklanjevanu s strankami glede planiranja
+layout: default
+modal-id: 4
+thumbnail: flex.jpg
+alt: image-alt
+---

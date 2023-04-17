@@ -1,0 +1,8 @@
+---
+title: Leta izkušenj
+subtitle: Več kot 40 let izkušenj na področju strojništva
+layout: default
+modal-id: 3
+thumbnail: xp.png
+alt: image-alt
+---

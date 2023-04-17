@@ -1,0 +1,8 @@
+---
+title: Svetovanje
+subtitle: Priporočila pri uzvedbi in načrtovanju načrtov ter izdelkov
+layout: default
+modal-id: 5
+thumbnail: counseling.jpg
+alt: image-alt
+---
